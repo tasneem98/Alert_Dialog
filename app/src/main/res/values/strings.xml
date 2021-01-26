@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PopUpWindow</string>
+
+    <string name="delete">Delete</string>
+    <string name="cancle">Cancle</string>
+    <string name="pop_up">Pop Up</string>
+</resources>
